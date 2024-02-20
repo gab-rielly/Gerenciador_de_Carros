@@ -34,8 +34,3 @@ Arquivo de Dados
 ----------------
 
 Os dados da coleção de carros são mantidos em um arquivo de texto no formato CSV (comma-separated values), onde cada linha representa um carro e cada coluna contém as informações do carro separadas por vírgula (modelo, marca, ano, cor, placa). Certifique-se de manter o formato do arquivo conforme especificado para garantir o correto funcionamento do programa.
-
-Arquivo de Dados
-----------------
-
-Os dados da coleção de carros são mantidos em um arquivo de texto no formato CSV (comma-separated values), onde cada linha representa um carro e cada coluna contém as informações do carro separadas por vírgula (modelo, marca, ano, cor, placa). Certifique-se de manter o formato do arquivo conforme especificado para garantir o correto funcionamento do programa.
