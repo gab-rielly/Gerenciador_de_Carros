@@ -27,7 +27,7 @@ Funcionalidades do Programa
 
 Como Usar
 ---------
-1.  Execute o arquivo `gerenciador_carros.py`.
+1.  Execute o arquivo `dados.py`.
 2.  Siga as instruções fornecidas pelo programa para realizar as operações desejadas na coleção de carros.
 
 Arquivo de Dados
